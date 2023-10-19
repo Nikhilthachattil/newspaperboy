@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newspaperboy/static/css/main.623b25c2.css",
-    "main.js": "/newspaperboy/static/js/main.97e033b4.js",
+    "main.css": "/newspaperboy/static/css/main.afd7f8f4.css",
+    "main.js": "/newspaperboy/static/js/main.351ec848.js",
     "static/js/787.ccc4b099.chunk.js": "/newspaperboy/static/js/787.ccc4b099.chunk.js",
     "static/media/gif1.gif": "/newspaperboy/static/media/gif1.c93871a62b9d945b76c8.gif",
     "static/media/gif3.gif": "/newspaperboy/static/media/gif3.6e9ab7bde46fd419db4b.gif",
@@ -43,12 +43,12 @@
     "static/media/instagram.png": "/newspaperboy/static/media/instagram.933cc774a9642002cd00.png",
     "static/media/behance.png": "/newspaperboy/static/media/behance.733216a79851fd4358df.png",
     "index.html": "/newspaperboy/index.html",
-    "main.623b25c2.css.map": "/newspaperboy/static/css/main.623b25c2.css.map",
-    "main.97e033b4.js.map": "/newspaperboy/static/js/main.97e033b4.js.map",
+    "main.afd7f8f4.css.map": "/newspaperboy/static/css/main.afd7f8f4.css.map",
+    "main.351ec848.js.map": "/newspaperboy/static/js/main.351ec848.js.map",
     "787.ccc4b099.chunk.js.map": "/newspaperboy/static/js/787.ccc4b099.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.623b25c2.css",
-    "static/js/main.97e033b4.js"
+    "static/css/main.afd7f8f4.css",
+    "static/js/main.351ec848.js"
   ]
 }
