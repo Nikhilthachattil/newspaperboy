@@ -30,14 +30,14 @@ function Culture() {
   return (
     <div>
       <div className="flex justify-around md:mt-10 w-full">
-        <div className=" relative flex justify-center items-center cursor-pointer px-10 md:h-[100vh] mb-10">
+        <div className=" relative flex justify-center items-center cursor-pointer px-2 md:px-10 md:h-[100vh] mb-10">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
             strokeWidth={1.5}
             stroke="currentColor"
-            className="w-6 h-6 absolute z-30 p-1 md:w-[50px] md:h-[50px] bg-none left-2 md:p-3 border-2 border-dcream rounded-full mx-5 backdrop-blur-3xl"
+            className="w-6 h-6 text-white absolute z-30 p-1 md:w-[50px] md:h-[50px] bg-none left-2 md:p-3 border-2 border-dcream rounded-full md:mx-5 backdrop-blur-3xl"
             onClick={slideLeft}
           >
             <path
@@ -80,7 +80,7 @@ function Culture() {
             viewBox="0 0 24 24"
             strokeWidth={1.5}
             stroke="currentColor"
-            className="w-6 h-6 absolute z-30 p-1 md:w-[50px] md:h-[50px] right-2 md:p-3 border-2 border-dcream rounded-full mx-5 backdrop-blur-3xl"
+            className="w-6 h-6 text-white absolute z-30 p-1 md:w-[50px] md:h-[50px] right-2 md:p-3 border-2 border-dcream rounded-full md:mx-5 backdrop-blur-3xl"
             onClick={slideRight}
           >
             <path
@@ -91,19 +91,19 @@ function Culture() {
           </svg>
         </div>
       </div>
-      <div className=" mx-10">
+      <div className="mx-2 md:mx-10">
         <h1 className="font-Primary md:text-[20px]">Crossword:</h1>
         <div>
           <Crosswordcard />
         </div>
       </div>
-      <div className="mx-10 md:mt-10">
+      <div className="mx-2 md:mx-10 md:mt-10">
         <h1 className="font-Primary md:text-[20px]">Cartoons:</h1>
         <div>
           <Cartoon />
         </div>
       </div>
-      <div className="mx-10 md:mt-10">
+      <div className="mx-2 md:mx-10 md:mt-10">
         <h1 className="font-Primary md:text-[20px]">Advertisment:</h1>
         <div className="bg-black">
           <div className="p-5">

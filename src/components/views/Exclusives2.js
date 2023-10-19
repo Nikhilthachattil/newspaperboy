@@ -9,7 +9,7 @@ import img7 from "../../assests/exclusives/8.jpg";
 
 function Exclusives2() {
   return (
-    <div className="relative font-serif border-t-2 border-secondary mx-10 py-2 ">
+    <div className="relative font-serif border-t-2 border-secondary mx-2 md:mx-10 py-2 ">
       <div>
         <h1 className="font-bold md:text-[20px]">INSPIRATION :</h1>
       </div>

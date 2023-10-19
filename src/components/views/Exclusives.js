@@ -3,7 +3,7 @@ import img2 from "../../assests/gif1.gif";
 function Exclusives() {
   return (
     <div>
-      <div className="relative font-Primary border-t-2 border-secondary mx-10 my-2 py-2 md:h-[70vh] bg-gray-200">
+      <div className="relative font-Primary border-t-2 border-secondary mx-2 md:mx-10 my-2 py-2 md:h-[70vh] bg-gray-200">
         <h1 className="font-bold md:text-[20px]">EXCLUSIVES :</h1>
         <h1 className="my-5">
           The Association between Artificial Intelligence Awareness and Employee

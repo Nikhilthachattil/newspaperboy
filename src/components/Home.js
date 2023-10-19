@@ -8,7 +8,7 @@ import Exclusives2 from "./views/Exclusives2";
 function Home() {
   return (
     <div>
-      <div className="md:grid grid-cols-5 grid-rows-2 gap-0 mx-10 mb-10 md:py-5 px-1">
+      <div className="md:grid grid-cols-5 grid-rows-2 gap-0 md:mx-10 mb-10 md:py-5 px-1">
         <div className="col-span-3 mb:10">
           <div className="">
             <h1 className="font-Primary md:text-[38px] text-justify mx-5 pt-2 md:pt-10 md:mb-10">

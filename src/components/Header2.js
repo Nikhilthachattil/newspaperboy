@@ -11,7 +11,7 @@ function Header2() {
         <DateandTime />
       </div>
       <div className="relative">
-        <h1 className="text-end text-[20px] md:text-[80px] font-Primary  md:mt-0">
+        <h1 className="text-end mx-auto text-[15px] md:text-[80px] font-Primary  md:mt-0">
           NEWS PAPER BOY
         </h1>
       </div>

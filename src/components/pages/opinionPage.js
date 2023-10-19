@@ -7,7 +7,7 @@ import img5 from "../../assests/walt-disney.png";
 import gif from "../../assests/gif3.gif";
 function opinionPage() {
   return (
-    <div className="mx-10 font-serif text-justify">
+    <div className="md:mx-10 mx-2 font-serif text-justify">
       <div>
         <h1 className="font-Primary text-[30px] md:text-[50px]">
           5 people who didn't give up
